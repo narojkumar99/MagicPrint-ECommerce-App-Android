@@ -1,4 +1,4 @@
-# Magic Print - An E-Commerce App for Android with Material Design Pattern Using Firebase and MySQL
+# Magic Print - An E-Commerces App for Android with Material Design Pattern Using Firebase and MySQL
 
 MySQL has been used for user registration and login whereas firebase is being user for data maintenance such as user cart , wishlist , placing ording, listing orders etc !
 
